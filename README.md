@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first git hub repository.
+This is my first Git repository.
 <br>
 Author: Jay Prakash Tanty
