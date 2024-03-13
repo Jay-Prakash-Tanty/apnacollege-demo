@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first git hub repository.
-author: jack
+<br>
+Author: Jay Prakash Tanty
